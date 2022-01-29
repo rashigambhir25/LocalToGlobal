@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.31302083333333336" />
+        <entry key="app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.3140625" />
+        <entry key="app/src/main/res/drawable/ic_cart.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_my_profile.xml" value="0.3140625" />
+        <entry key="app/src/main/res/drawable/ic_profile.xml" value="0.3078125" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_login2.xml" value="0.19143239625167335" />
+        <entry key="app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.19143239625167335" />
+        <entry key="app/src/main/res/layout-w936dp/activity_login2.xml" value="0.19398907103825136" />
+        <entry key="app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.22062841530054644" />
+        <entry key="app/src/main/res/layout/activity_dash_board.xml" value="0.2028985507246377" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_login2.xml" value="0.2572463768115942" />
+        <entry key="app/src/main/res/layout/activity_my_profile.xml" value="0.159375" />
+        <entry key="app/src/main/res/layout/activity_order_history.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/activity_order_success.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/activity_product_details.xml" value="0.2318181818181818" />
+        <entry key="app/src/main/res/layout/activity_product_details1.xml" value="0.27853260869565216" />
+        <entry key="app/src/main/res/layout/activity_product_list.xml" value="0.21806853582554517" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/activity_register_otp.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/activity_search_product_list.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/category_item.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/category_products.xml" value="0.2681992337164751" />
+        <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.2838541666666667" />
+        <entry key="app/src/main/res/layout/fragment_cart.xml" value="0.27146814404432135" />
+        <entry key="app/src/main/res/layout/fragment_category.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_my_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_order_scucess.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/fragment_order_success.xml" value="0.159375" />
+        <entry key="app/src/main/res/layout/fragment_product_details.xml" value="0.2884963768115942" />
+        <entry key="app/src/main/res/layout/fragment_product_list.xml" value="0.2884963768115942" />
+        <entry key="app/src/main/res/layout/merchant_product_details.xml" value="0.27853260869565216" />
+        <entry key="app/src/main/res/layout/order_details.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/product_categories.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/product_item.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/product_list_data.xml" value="0.1917808219178082" />
+        <entry key="app/src/main/res/layout/recommendation_item.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/slider_items.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/menu/bottom_nav_bar_menu.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/menu/options_menu.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/xml/searchable.xml" value="0.2223731884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_my_profile.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
